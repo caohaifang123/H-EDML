@@ -1,0 +1,11 @@
+python == 3.8.20
+torch == 1.8.0
+numpy == 1.22.4
+scipy == 1.6.3
+networkx == 2.5
+sage == 9.0
+pandas == 2.0.3
+geoopt ==0.1.0
+torch_scatter == 2.0.6
+torch_sparse == 0.6.9
+torch_geometric == 2.0.0
