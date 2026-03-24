@@ -1,7 +1,6 @@
-Hyperbolic-Euclidean Deep Mutual Learning (H-EDML) in PyTorch
+# Hyperbolic-Euclidean Deep Mutual Learning (H-EDML)
 
-**Official PyTorch implementation of our WWW 2025 paper**  
-**Accepted by The Web Conference (WWW) 2025**
+**Official PyTorch implementation of our H-EDML accepted by The Web Conference (WWW) 2025**  
 
 ==================================================
 
